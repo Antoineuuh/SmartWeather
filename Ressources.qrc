@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>img/clouds/bkn.png</file>
+        <file>img/clouds/few.png</file>
+        <file>img/clouds/ovc.png</file>
+        <file>img/clouds/sct.png</file>
+        <file>img/clouds/skc.png</file>
+        <file>img/icon.png</file>
+        <file>img/splash.png</file>
+        <file>img/loading.gif</file>
+    </qresource>
+</RCC>
